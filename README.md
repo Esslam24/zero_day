@@ -1,2 +1,3 @@
 #!/bin/bash
-echo 'forget it'
+zero_day
+not empty
