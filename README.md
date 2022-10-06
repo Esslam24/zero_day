@@ -1,2 +1,2 @@
 #!/bin/bash
-My first commit
+echo 'forget it'
